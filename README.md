@@ -1,5 +1,6 @@
-
 # Employee Attrition Prediction and Clustering Using ML
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pulkiiit/employee-attrition/blob/main/employee-attrition.ipynb)
 
 This project focuses on analyzing and predicting employee attrition using machine learning. It involves comprehensive data preprocessing, feature engineering, exploratory data analysis (EDA), clustering of employees who left, handling class imbalance using SMOTE, and training multiple ML models with cross-validation to predict attrition.
 
